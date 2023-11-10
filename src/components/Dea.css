@@ -1,0 +1,36 @@
+.image1{
+    width: 50vh;
+    height: 30vh;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+.container2{
+    
+}
+
+.container2{
+    margin: 30px;
+}
+
+.container2 div{
+    text-align: center;
+    margin-top: 10px;
+}
+.container2 button{
+    margin-left: 160px;
+    margin-top: 10px;
+}
+
+.button{
+    position:relative;
+    top: 0px;
+    border: none;
+    color: brown;
+    font-size: 20px;
+}
+
+.heading1{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}

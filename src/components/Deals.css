@@ -1,0 +1,25 @@
+.container1{
+    margin-top: 550px;
+    
+    
+}
+
+.upper{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.center{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+
+.lower{
+    margin-left: 50%;
+    border: none;
+    text-decoration: underline;
+    font-size: 28px;
+    color: brown;
+}

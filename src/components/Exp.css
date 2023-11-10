@@ -1,0 +1,24 @@
+.conatinerin {
+    margin: 0;
+    align-items: center;
+  }
+  
+  .image {
+    width: 60vh;
+    height: 60vh;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .text {
+    position: relative;
+    color: white;
+    top: 380px;
+    left: 10%;
+    font-size: 24px;
+  }
+  
+  .image:hover  h3{
+    top:190px
+  }
+  
